@@ -33,6 +33,7 @@ $(document).ready(function(){
 	}, function () {
 		$('.rightbox_3').animate({ width: '0.4%' }, 1000)
 	});
+	
 });
 
 
